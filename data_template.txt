@@ -1,0 +1,8 @@
+Select your clause
+ This document is made of plaintext
+ Is made of [CLAUSE-3]
+ Is made of [CLAUSE-4]
+ Is made of [CLAUSE-1]
+ Is made of [CLAUSE-2]
+ Is made of [SECTION-1]
+ Your legals.
