@@ -1,0 +1,1 @@
+# Run this command - ruby fetch_template.rb
